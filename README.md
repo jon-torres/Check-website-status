@@ -1,4 +1,4 @@
-# Check-website-status
+# Go-check-website-status
 
 Simple script for checking whether a website is up or down. Built using pure Go! <br>
 It uses concurrency implemented with GoRoutines. <br>
